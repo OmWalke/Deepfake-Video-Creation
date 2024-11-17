@@ -1,0 +1,1 @@
+python inference.py --driven_audio 'C:\\Users\\Jonathan\\Desktop\\SadTalker-main\\examples\\driven_audio\\RD_Radio31_000.wav' --source_image 'C:\Users\Jonathan\Desktop\deepFake.jpeg' --enhancer gfpgan
